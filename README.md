@@ -1,16 +1,17 @@
-## Hi there 👋
+# jon-lat@github
+Computer Science and Engineering student, with a passion for cybersecurity and a deep love for Linux systems.
 
-<!--
-**jon-lat/jon-lat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## skills
+- Linux
+- Basic Networking & Troubleshooting
+- HTML & CSS
+- Python
+- CLI / terminal workflows
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## projects
+- dotfiles - my Arch + Hyprland configuration files
+  
+## contacts
+- Email: jonlatifi@proton.me
+- Github: [github.com/jon-lat](https://github.com/jon-lat)
+- LinkedIn: [linkedin.com/in/jon-latifi-96759a363/](https://www.linkedin.com/in/jon-latifi-96759a363/)
