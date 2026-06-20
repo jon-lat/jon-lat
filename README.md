@@ -1,6 +1,4 @@
 # jon-lat@github
-Computer Science and Engineering student, with a passion for cybersecurity and a deep love for Linux systems.
-
 ## skills
 - Linux
 - Basic Networking & Troubleshooting
