@@ -1,13 +1,14 @@
 # jon-lat@github
 ## skills
-- Linux
-- Basic Networking & Troubleshooting
+- Linux & Windows 
+- Networking and Network Security
+- Cybersecurity & SOC Operations
 - HTML & CSS
 - Python
-- CLI / terminal workflows
 
 ## projects
 - dotfiles - my Arch + Hyprland configuration files
+- linux-soc-lab - Ubuntu based SOC Lab configuration for learning
   
 ## contacts
 - Email: jonlatifi@proton.me
