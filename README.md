@@ -8,7 +8,8 @@
 
 ## projects
 - dotfiles - my Arch + Hyprland configuration files
-- linux-soc-lab - Ubuntu based SOC Lab configuration for learning
+- linux-server-admin-lab - Ubuntu based SOC Lab configuration for learning
+- wazuh-soc-lab - Wazuh Setup and Configuration learning experience
   
 ## contacts
 - Email: jonlatifi@proton.me
